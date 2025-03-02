@@ -10,7 +10,7 @@ const htmlTemplate = `
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-    <h1>Go Calculator Test1</h1>
+    <h1>Go Calculator Test2</h1>
     <div class="calculator">
         <form method="POST" action="/">
             <input type="number" name="num1" placeholder="Enter first number" value="{{.FirstNum}}" required>
